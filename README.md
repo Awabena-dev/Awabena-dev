@@ -7,18 +7,14 @@
 
 ---
 
-<!-- ABOUT ME -->
-<h2>🔥 حولي</h2>
-<ul>
-  <li>🌍 الموقع: السعودية</li>
-  <li>💻 مطور ومهتم بـ <b>Web, Game Dev, AI</b></li>
-  <li>⚡ هواياتي: تجربة تقنيات جديدة، ألعاب، واستكشاف الأدوات المفتوحة المصدر</li>
-</ul>
+## 🇸🇦 العربية
 
----
+### 🔥 حولي
+- 🌍 الموقع: السعودية  
+- 💻 مطور مهتم بـ **Web, Game Dev, AI**  
+- ⚡ هواياتي: تجربة تقنيات جديدة، ألعاب، واستكشاف الأدوات المفتوحة المصدر
 
-<!-- SKILLS -->
-<h2>🛠️ المهارات</h2>
+### 🛠️ المهارات
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -27,10 +23,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
----
-
-<!-- PROJECTS -->
-<h2>🚀 المشاريع البارزة</h2>
+### 🚀 المشاريع
 <table>
   <tr>
     <td align="center">
@@ -54,10 +47,7 @@
   </tr>
 </table>
 
----
-
-<!-- CONTACT -->
-<h2>📬 تواصل معي</h2>
+### 📬 تواصل معي
 <p>
   <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/email.png"/></a>
   <a href="#"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
@@ -66,6 +56,54 @@
 
 ---
 
-<!-- FUN FACT -->
-<h2>⚡ Fun Fact</h2>
+## 🇺🇸 English
+
+### 🔥 About Me
+- 🌍 Location: Saudi Arabia  
+- 💻 Developer interested in **Web, Game Dev, AI**  
+- ⚡ Hobbies: Exploring new tech, gaming, open-source projects
+
+### 🛠️ Skills
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</div>
+
+### 🚀 Projects
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.icons8.com/color/96/000000/game-controller.png"/><br>
+        2D Platformer Game
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.icons8.com/color/96/000000/stock-market.png"/><br>
+        Trading Simulator
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.icons8.com/color/96/000000/website.png"/><br>
+        Personal Portfolio
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📬 Contact Me
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/email.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
 <p>أؤمن بأن كل مشكلة برمجية كبيرة يمكن حلها بفنجان قهوة وإصرار! ☕</p>
